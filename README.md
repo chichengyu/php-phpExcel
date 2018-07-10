@@ -6,7 +6,7 @@
 
 function.php文件为封装的方法
 
-条用方式如下：
+使用方式如下：
 
 $xlsCell = array(
 	'name' 	=> '姓名',
